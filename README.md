@@ -1,2 +1,2 @@
 # Dice-Game-
-it is a simple game which can be played on website and it is built using JavaScript , CSS and HTML.
+it is a simple game website and it built using JavaScript , CSS and HTML.
